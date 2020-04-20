@@ -1,5 +1,5 @@
 # <center> Automatic detection and measurement of viral replication compartments by ellipse adjustment. <center>
-This code is part of the article "Automatic detection and measurement of viral replication compartments by ellipse adjustment" available in [Scientific Reports](http://www.nature.com/srep/). The code can be used and distributed for any scientific application, provided that a reference to this article is included. 
+This code is part of the article "Automatic detection and measurement of viral replication compartments by ellipse adjustment" available in [Scientific Reports](https://www.nature.com/articles/srep36505). The code can be used and distributed for any scientific application, provided that a reference to this article is included. 
 
 In the repository a set of 10 images was included as example to run the algorithm. These images are stored in the folder "ForTest" and are a subset of all images that were used in this work. 
 
