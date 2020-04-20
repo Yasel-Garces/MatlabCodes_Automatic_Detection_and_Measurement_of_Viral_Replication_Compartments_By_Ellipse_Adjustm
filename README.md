@@ -1,4 +1,4 @@
-<img src="CV.jpeg">
+<img src="Its-Time-To-Program-Something.jpg">
 
 # Automatic detection and measurement of viral replication compartments by ellipse adjustment.
 This code is part of the article "Automatic detection and measurement of viral replication compartments by ellipse adjustment" available in [Scientific Reports](https://www.nature.com/articles/srep36505). The code can be used and distributed for any scientific application, provided that a reference to this article is included. 
